@@ -24,7 +24,6 @@ export default {
         "custom-gray-4": "#BDBDBD",
         "custom-gray-5": "#E0E0E0",
       }
-     
     },
   },
   plugins: [],
