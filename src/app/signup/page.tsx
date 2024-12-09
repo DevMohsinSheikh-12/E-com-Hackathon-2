@@ -4,7 +4,8 @@ import Image from 'next/image'
 import Head from "../components/Head";
 function SignUpBox() {
   return (
-      <><Head />
+      <>
+        
       
       
       
