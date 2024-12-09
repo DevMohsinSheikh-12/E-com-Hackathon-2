@@ -12,10 +12,10 @@ function Head() {
       >
         <div className="absolute inset-0 bg-black opacity-40"></div>
         <div className="relative z-10 text-center">
-          <h1 className="text-4xl font-bold">Blog List</h1>
+          <h1 className="text-4xl font-bold">Authentication</h1>
           <p className="text-sm mt-2">
             <span className="text-gray-400">Home </span>
-            <span className="text-orange-500">&gt; Blog</span>
+            <span className="text-orange-500">&gt; AUTH</span>
           </p>
         </div>
       </section>
