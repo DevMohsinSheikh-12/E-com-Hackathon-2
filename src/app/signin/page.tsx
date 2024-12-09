@@ -7,7 +7,7 @@ function SignUpBox() {
 
     <>
  
-
+<Head />
     
     <div className="flex items-center justify-center h-screen bg-gray-100">
       <div className="bg-white shadow-lg rounded-lg p-8 w-[424px] h-[564px] relative">
